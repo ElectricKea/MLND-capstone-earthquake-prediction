@@ -5,8 +5,8 @@ This is the capstone project for Udacity's Machine Learning Nanodegree
 ### Earthquake prediction using a supervised learner.
 
 ## Dataset
-The full dataset can be download from [here](http://wfs.geonet.org.nz/). (The full dataset is current 120MB)  
-For a more specific selection of earthquakes and visulisation can be found [here](http://quakesearch.geonet.org.nz/).
+The full dataset can be download from [here](http://wfs.geonet.org.nz/). (At the time of uploading this, the file size is 117MB)  
+Selections of the full dataset's earthquakes and visulisations of the earthquakes can be found [here](http://quakesearch.geonet.org.nz/).
 
 ## Software Requirements
 Python packages used in this project
